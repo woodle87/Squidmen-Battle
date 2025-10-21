@@ -1,0 +1,21 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+#gameCanvas {
+  background: #333;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 0 24px #111;
+}
+#controls {
+  margin: 16px auto;
+  max-width: 500px;
+  background: #222;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 0 12px #111;
+}
